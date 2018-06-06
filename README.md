@@ -4,8 +4,11 @@ This readme is my journey of getting SB2 to boot MacOS. I will try my best to do
 
 Specifications:-
 i7-8650U
+
 Intel UHD Graphics 620
+
 16GB RAM | 1TB SSD
+
 Nvidia GTX 1060(GP-106)
 
 Changelog:-
